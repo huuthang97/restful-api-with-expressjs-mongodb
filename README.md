@@ -6,9 +6,9 @@ INSTALL
 `
 
 ```
-Step 1: Edit file name example.env to .env (change MONGO DB in this file)
-Step 2: Cmd: npm install
-Step 3: Cmd: npm install nodemon --save
-Step 4: Cmd: npm start
-Step 5: Open localhost:3001
+Step 1: edit file name example.env to .env (change MONGO DB in this file)
+Step 2: npm install
+Step 3: npm install nodemon --save
+Step 4: npm start
+Step 5: open http://localhost:3001
 ```
